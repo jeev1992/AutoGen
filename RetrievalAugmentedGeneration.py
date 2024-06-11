@@ -43,7 +43,7 @@ ragproxyagent = RetrieveUserProxyAgent(
     name="ragproxyagent",
     retrieve_config={
         "task": "qa",
-        "docs_path": "C:/Users/jeesingh/OneDrive - Microsoft/Desktop/AutogenTest/docs/myAccounts.md",
+        "docs_path": os.getcwd() + "/docs/test.md",
         "embedding_function": openai_ef,
         "custom_text_split_function": recur_spliter.split_text,
     },
