@@ -52,6 +52,8 @@ Ensure you have the following installations on your computer:
      ```
      Python: Select Interpreter
      ```
+     ![image](https://github.com/jeev1992/AutoGen/assets/3463537/5f16f9d5-3fc3-4ac5-88e0-1a399d43d506)
+
 
 ### Running the Notebooks
 
